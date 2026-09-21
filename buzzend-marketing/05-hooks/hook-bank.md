@@ -47,9 +47,17 @@ tested ones with their result so we learn.
 
 ## hooks-inbox — verbatim audience phrases (highest-value hooks)
 
-Person 3 pastes exact comment/DM phrases here daily. These become hooks
-before anything we invent ourselves.
+| Date       | Exact phrase   | Where it came from | Turned into content?   |
 
-| Date | Exact phrase | Where it came from | Turned into content? |
-|---|---|---|---|
-| _(add rows daily)_ | | | |
+
+2026-09-21	|"Hold on, it's counting in real time?" |	Friend watching demo |	No |
+2026-09-21	|"So I don't have to count anymore?" |	Demo viewer|	No |
+2026-09-21	|"Why did it miss that rep?" |	Squat demo feedback |	No |
+2026-09-21	|"That actually looks pretty accurate." |	Test user reaction |	No |
+2026-09-21	|"Can it work for push-ups too?" |	Creator demo feedback |	No |
+2026-09-21	|"I would've counted that rep." |	Exercise demo review |	No |
+2026-09-21	|"How does it know I completed the rep?" |	Demo viewer |	No |
+2026-09-21	|"This is better than counting in my head." |	Test user reaction |	No |
+2026-09-21	|"What happens if I move out of frame?" |	Demo viewer |	No |
+2026-09-21	|"Can I challenge my friends with this?" |	Challenge demo feedback |	No |
+
